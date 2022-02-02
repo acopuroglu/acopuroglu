@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @acopuroglu
 - 👀 I’m interested in structural health monitoring, BIM, seismic design, building materials, FRCM.
-- 🌱 I’m currently learning Phyton, opensees.
+- 🌱 I’m currently learning Pyhton, opensees.
 - 📫 How to reach me instagram @copurogluali, linkedin /in/ali-copuroglu-4aab30100/
 
 <!---
